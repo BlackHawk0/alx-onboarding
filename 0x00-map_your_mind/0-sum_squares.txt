@@ -1,0 +1,9 @@
+1. Define sum to represent the sum of the number of the squares.
+2. Assign the sum variable to 0
+	sum = 0
+3. Get the input from the user
+4. Use a for loop to calculate the sum of the squares.
+5. For i = 0 in the range 0 to the input 
+	sum is equal to sum plus the new value of i 
+	and we continue with the loop.
+6. Print the value of sum.
