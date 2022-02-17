@@ -1,0 +1,4 @@
+1. Declare the variables to store the three numbers i.e int a, b, c
+2. Ask user input
+3. Use a function to sort the number i.e largest to smallest and vice versa
+4. Print out the numbers in a sorted manner
